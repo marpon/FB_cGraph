@@ -1,0 +1,20 @@
+// file ImplicitX3.txt
+
+// This is a comment
+
+ImplicitX
+Title "Testing 3 curves"
+HorzAxisLabel "The Horz Axis Label"
+
+//VerAxisLabel "The Vert Axis Label" // could be nice to have
+//SetX "0", "-10" , "15"  // could be nice to have
+//SetY "0", "-20" , "20"  // could be nice to have
+//Grid   //could be nice to have
+
+SetLabels "Curve1", "Curve2", "curve3"
+
+0.000000, 2.000000, 4.0
+1.000000, 3.000000, 3.0
+2.000000, 5.000000, 2.0
+4.000000, 8.000000, 1.0
+8.0,		10.0,		0.0

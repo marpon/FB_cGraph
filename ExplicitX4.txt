@@ -1,0 +1,18 @@
+// file ExplicitX4.txt
+
+// This is a comment
+
+ExplicitX
+Title "The Title for 4 curves"
+HorzAxisLabel "The Horz Axis Label"
+SetLabels "Curve1" , "Curve2" , "Curve3" , "Curve4"
+
+//VerAxisLabel "The Vert Axis Label" // could be nice to have
+//SetX "0", "-10" , "15"  // could be nice to have
+//SetY "0", "-20" , "20"  // could be nice to have
+//Grid   //could be nice to have
+
+7.000000 , 0.000000 , 2.000000 , 4.000000 , 2.500000
+8.000000 , 1.000000 , 3.000000 , 3.000000 , 2.500000
+9.000000 , 2.000000 , 4.000000 , 2.000000 , 2.500000
+10.000000 , 3.000000 , 5.000000 , 1.000000 , 2.900000
